@@ -1,6 +1,5 @@
 ### Hi, I am Vlado.
 
-About me:
 Passionate traveller, love architecture, desigh, photograpy. Booklover. 
 
 My last but not least addiction is codding with Python....AI is also in my mind !
