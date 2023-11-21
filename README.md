@@ -2,9 +2,10 @@
 
 Passionate traveller, love architecture, desigh, photography. Booklover. 
 
-My last but not least addiction is codding with Python....AI is also in my mind !
+My last but not least addiction is codding with Python.
 
-Favourite quote : "Heavy is the crown, but only for the weak !
+...AI is also on my mind !
+
 
 ![alt text](https://github.com/vladodyanov/python/blob/main/423066.png)
 
