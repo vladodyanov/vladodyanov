@@ -4,10 +4,11 @@
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 💻 Currently working on my **codding stils** and explpring <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" style="padding-right:10px;" /> black magic.
+- 💻 Currently working on my **codding stils** and explpring **Django's** black magic.
 -  I'm a **passionate traveller**, **love architecture**, **desigh**, **photography**. **Booklover**.
 - ⚡ I have 1+ year of experience as a Python developer, using variouslanguages and technologies, while taking part in multiple demo projectsand I am seeking a full-time position in the field of softwaredevelopment, where I can apply my knowledge and skills for continuousimprovement.
-- I have also interest in Artificial inteligence development, machine learning, cyber security and ethical hacking.
+- I am **organized**, **reliable** and **profesional**, **team player**, **fluent in English**.
+- 👨‍🏫 Also have interests in Artificial inteligence development, machine learning, cyber security and ethical hacking.
 
 ---
 
@@ -32,7 +33,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 
+<summary>:zap: GitHub Stats</summary>
 
+<div>
+  <img height="160" align="left" alt="Diyan's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vladodyanov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiyanKalaydzhiev23&layout=compact&bg_color=09131B&hide_border=true" />
+</div>
 
 
 
