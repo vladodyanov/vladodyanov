@@ -4,7 +4,7 @@
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 💻 Currently working on my **coding stils** and explopring **Django's** black magic.
+- 💻 Currently working on my **coding skills** and explopring **Django's** black magic.
 - ⚡ I have 1+ year of experience as a Python developer, using various languages and technologies, while taking part in multiple demo projects and I am seeking a full-time position in the field of software development, where I can apply my knowledge and skills for continuous improvement.
 - I am **organized**, **communicative** and **profesional**, **team player**, **fluent in English**.
 - 👨‍🏫 Also have interests in Artificial inteligence development, machine learning, cyber security and ethical hacking.
