@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vlado 👨‍🏫
 
-## I'm a Junior Python Full Stack Web Developer
+## I'm a Junior Python Web Developer
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
