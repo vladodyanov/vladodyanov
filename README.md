@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vlado :mount_fuji:
+# Hi there 👋, I'm Vlado :lion:	
 
 ## I'm a Junior Python Web Developer
 
@@ -6,9 +6,9 @@
 
 - 💻 Currently working on my **coding skills** and explopring **Django's** black magic.
 - ⚡ I have 2+ year of experience as a Python developer, using various languages and technologies, while taking part in multiple projects and I am seeking a full-time position in the field of software development, where I can apply my knowledge and skills for continuous improvement.
-- I am **organized**, **communicative** and **profesional**, **team player**, **fluent in English**.
+- :man_technologist: I am **organized**, **communicative** and **profesional**, **team player**, **fluent in English**.
 - 👨‍🏫 Also have interests in Artificial inteligence development, machine learning, cyber security and ethical hacking.
-- I'm a **passionate traveller**, **love architecture**, **design**, **photography**. **Booklover**.
+- :man_astronaut:	 I'm a **passionate traveller**, **love architecture**, **design**, **photography**. **Booklover**.
 
 ---
 
