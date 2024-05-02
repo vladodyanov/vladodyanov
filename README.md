@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vlado 👨‍🏫
+# Hi there 👋, I'm Vlado :mount_fuji:
 
 ## I'm a Junior Python Web Developer
 
