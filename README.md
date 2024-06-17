@@ -1,19 +1,22 @@
-# Hi there 👋, I'm Vlado :lion:	
+# Hi there 👋, I'm Vlado 🦁
 
 ## I'm a Python Web Developer
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 💻 Currently working on my **coding skills** and explopring **Django's** black magic.
-- ⚡ I have 2+ year of experience as a Python developer, using various languages and technologies, while taking part in multiple projects and I am seeking a full-time position in the field of software development, where I can apply my knowledge and skills for continuous improvement.
-- :man_technologist: I am **organized**, **communicative** and **profesional**, **team player**, **fluent in English**.
-- :robot: Also have interests in Artificial inteligence development, machine learning, cyber security and ethical hacking.
-- :man_astronaut:	 I'm a **passionate traveller**, **love architecture**, **design**, **photography**. **Booklover**.
+### About Me
 
----
+- 💻 Currently working on enhancing my **coding skills** and exploring **Django's** capabilities.
+- ⚡ With over 2 years of experience as a Python developer, I have utilized various languages and technologies across multiple projects. I am seeking a full-time position in software development to further apply and grow my skills.
+- 👨‍💻 I am **organized**, **communicative**, **professional**, a **team player**, and **fluent in English**.
+- 🤖 I have a keen interest in **Artificial Intelligence**, **machine learning**, **cybersecurity**, and **ethical hacking**.
+- 👨‍🚀 Passionate about **traveling**, **architecture**, **design**, **photography**, and **books**.
 
+### Connect with Me
 
-### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://bg.linkedin.com/in/vladimir-dyanov-67b6a8b4)
+
+### Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -35,14 +38,13 @@
 <br />
 <br />
 
----
-<summary>:zap: GitHub Stats</summary>
-<div>
-  <img height="160" align="left" alt="Vlado's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladodyanov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladodyanov&layout=compact&bg_color=09131B&hide_border=true" />
-</div>
+### My GitHub Stats
 
+![Vlado's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladodyanov&show_icons=true&theme=dark)
 
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladodyanov&layout=compact&theme=dark)
 
 
 
