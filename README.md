@@ -40,11 +40,11 @@
 
 ### My GitHub Stats
 
-![Vlado's GitHub stats](https://github-readme-stats.vercel.app/api?vladodyanov=yourusername&show_icons=true&theme=dark)
+![Vlado's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladodyanov&show_icons=true&theme=dark)
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?vladodyanov=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladodyanov&layout=compact&theme=dark)
 
 
 
