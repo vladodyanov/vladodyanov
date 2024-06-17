@@ -38,11 +38,13 @@
 <br />
 <br />
 
-<summary>:zap: GitHub Stats</summary>
-<div>
-  <img height="160" align="left" alt="Vlado's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladodyanov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladodyanov&layout=compact&bg_color=09131B&hide_border=true" />
-</div>
+### My GitHub Stats
+
+![Vlado's GitHub stats](https://github-readme-stats.vercel.app/api?vladodyanov=yourusername&show_icons=true&theme=dark)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?vladodyanov=yourusername&layout=compact&theme=dark)
 
 
 
