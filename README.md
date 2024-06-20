@@ -8,7 +8,9 @@
 
  💻 Currently working on enhancing my **coding skills** and exploring **Django's** black magic.
  
- ⚡ With over 2 years of experience as a Python developer, I have utilized various languages and technologies across multiple projects. I am seeking a full-time position in software development to further apply and grow my skills.
+ ⚡ With over 2 years of experience as a Python developer, I have utilized various languages and technologies across multiple projects.
+
+ 👋 I am open to all Python, Django, and Django REST projects. Also I am seeking a full-time position in software development to further apply and grow my skills.
  
  👨‍💻 I am **organized**, **communicative**, **professional**, a **team player** and **fluent in English**.
  
