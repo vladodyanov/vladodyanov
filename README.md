@@ -6,9 +6,8 @@
 
 ### About Me
 
- 💻 Currently working on enhancing my **coding skills** and exploring **Django's** black magic.
+ 💻 Currently working as **Software developer** at **ICT Strtpes**.
  
-
  👋 I am open to all **Python**, **Django**, and **Django REST** projects.
  
  👨‍💻 I am **organized**, **communicative**, **professional**, a **team player** and **fluent in English**.
