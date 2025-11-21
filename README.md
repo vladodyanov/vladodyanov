@@ -6,7 +6,7 @@
 
 ### About Me
 
- 💻 Currently working as **Software developer** at **ICT Strtpes**.
+ 💻 Currently working as **Software developer** at **ICT Strypes**.
  
  👋 I am open to all **Python**, **Django**, and **Django REST** projects.
  
